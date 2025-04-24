@@ -2,9 +2,13 @@
 # 👋 Hi, I'm Ghaith (Ki)  
 ### 💖 Lovesick Coder & Future Genius  
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
-<img src="https://img.shields.io/badge/Spanish-DE3163?style=for-the-badge&logo=duolingo&logoColor=white">  
-
+## **🛠️ Skills**  
+```html
+<div>
+  <p>Python <progress value="80" max="100"></progress> 80%</p>
+  <p>Spanish <progress value="40" max="100"></progress> 40%</p>
+  <p>Love <progress value="100" max="100"></progress> 100%</p>
+</div>
 ---
 
 ## **🌠 About Me**  
