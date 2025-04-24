@@ -3,8 +3,6 @@
 ### 💖 Lovesick Coder & Future Genius  
 
 ## **🛠️ Skills**  
-## **🛠️ Skills**  
-## **🛠️ Skills**  
 
 | Skill        | Progress Bar              | Level |
 |--------------|---------------------------|-------|
