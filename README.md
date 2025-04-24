@@ -13,3 +13,6 @@
 - 📸 **IG:** [@pillowpwn._](https://instagram.com/pillowpwn._) *(Memes welcome)*  
 
 ---
+<!-- 💘 For Iman]:  
+   Te amo más que a Python.  
+   -Ki --> 
