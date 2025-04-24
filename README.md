@@ -3,13 +3,14 @@
 ### 💖 Lovesick Coder & Future Genius  
 
 ## **🛠️ Skills**  
-```html
-<div>
-  <p>Python <progress value="80" max="100"></progress> 80%</p>
-  <p>Spanish <progress value="40" max="100"></progress> 40%</p>
-  <p>Love <progress value="100" max="100"></progress> 100%</p>
-</div>
----
+## **🛠️ Skills**  
+## **🛠️ Skills**  
+
+| Skill        | Progress Bar              | Level |
+|--------------|---------------------------|-------|
+| **Python**   | ![](https://progress-bar.dev/80/?title=Python) | 80%   |
+| **Spanish**  | ![](https://progress-bar.dev/40/?title=Spanish)| 40%   |
+| **Love**     | ![](https://progress-bar.dev/100/?title=Love)  | ∞%    |
 
 ## **🌠 About Me**  
 - 🔭 **Learning:** Python + Spanish + Life  
